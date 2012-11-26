@@ -1,0 +1,6 @@
+Temat: Manipulowanie przyciskami paska zadañ przy u¿yciu interfejsu WinAPI
+Autor: Konrad Gadzina
+Grupa: 1131, rok akad. 2008/09, semestr zimowy
+Jêzyki: C++
+Narzêdzia: Code::Blocks 8.02
+Opis: Projekt przedstawia wykorzystanie jêzyka C++ i interfejsu Win32API do operacji na pasku zadañ i tworzenia interfejsu graficznego
